@@ -47,12 +47,7 @@ npm run dev
 Penjelasan Metode Evaluasi
 🔢 RICE Score
 RICE adalah metode untuk memprioritaskan ide berdasarkan dampak dan usaha yang dibutuhkan.
-
 Rumus:
-
-ini
-Copy
-Edit
 RICE = (Reach × Impact × Confidence) / Effort
 Reach = Seberapa banyak pengguna yang akan terdampak
 
