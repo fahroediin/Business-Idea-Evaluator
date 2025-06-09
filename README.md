@@ -19,7 +19,7 @@
 
 ## 🖼️ Tampilan Antarmuka
 
-![Tangkapan Layar](screenshot.png) <!-- Tambahkan file screenshot jika tersedia -->
+![Tampilan](Screenshot.png) <!-- Tambahkan file screenshot jika tersedia -->
 
 ---
 
