@@ -83,8 +83,8 @@ Could Have: Opsi tambahan jika memungkinkan
 Won’t Have: Tidak diperlukan saat ini
 
 ✅ Contoh Data
-Nama Ide	RICE Score	Kano	MoSCoW
-Integrasi REST API untuk Workflow	125.00	Performance	Must Have
+Nama Ide	                         RICE Score	 Kano	         MoSCoW
+Integrasi REST API untuk Workflow	 125.00	     Performance	 Must Have
 
 📄 Lisensi
 Proyek ini menggunakan lisensi MIT.
