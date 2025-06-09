@@ -81,3 +81,17 @@ Should Have: Sangat disarankan
 Could Have: Opsi tambahan jika memungkinkan
 
 Won’t Have: Tidak diperlukan saat ini
+
+✅ Contoh Data
+Nama Ide	RICE Score	Kano	MoSCoW
+Integrasi REST API untuk Workflow	125.00	Performance	Must Have
+
+📄 Lisensi
+Proyek ini menggunakan lisensi MIT.
+
+🙌 Kontribusi
+Kontribusi sangat terbuka! Silakan fork repositori ini, buat perubahan, dan kirimkan pull request. Saran dan masukan juga sangat diterima melalui Issues.
+
+📫 Kontak
+Dibuat oleh Fahroediin
+Jika Anda memiliki pertanyaan atau saran, silakan hubungi melalui GitHub atau buka issue di repositori ini.
